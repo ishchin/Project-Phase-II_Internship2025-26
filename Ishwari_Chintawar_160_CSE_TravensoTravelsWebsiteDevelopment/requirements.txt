@@ -1,0 +1,11 @@
+WordPress
+Elementor
+HTML
+CSS
+JavaScript
+Google Analytics
+Google Search Console
+Rank Math SEO
+Fluent Forms
+Google reCAPTCHA
+WooCommerce
